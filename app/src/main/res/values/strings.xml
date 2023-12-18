@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">PokemonQuiz</string>
+    <string name="pokemonQuiz">Welcome to Pokémon Quiz</string>
+    <string name="genre_question">Which genre introduced Pokémon to the world?</string>
+    <string name="released_games">What were the first Pokémon games released?</string>
+    <string name="game_platform">In which platform Pokémon games were released in 1996?</string>
+    <string name="pikachu_evolution">How does Pikachu evolve into Raichu in the game?</string>
+    <string name="ash_home">Where does Ash Ketchum live?</string>
+    <string name="charizard_weakness">What is the greatest Charizard\'s weakness?</string>
+    <string name="ash_rival">Who is Ash\'s major rival?</string>
+    <string name="broken_pokemon">What is the most powerful Pokémon in generation 1?</string>
+    <string name="god_pokemon">Which Pokémon is considered to be the God of Pokémon?</string>
+    <string name="brock_weakness">What is the greatest Brock\'s weakness?</string>
+
+    <string name="option_novel">d - Novel</string>
+    <string name="silver_gold">a - Silver and Gold</string>
+    <string name="green_red">b - Green and Red</string>
+    <string name="sword_shield">c - Sword and Shield</string>
+    <string name="black_white">d - Black and White</string>
+    <string name="by_level">a - By level</string>
+    <string name="raising_happiness">b - By raising its happiness</string>
+    <string name="thunder_stone">c - Thunder Stone</string>
+    <string name="hyper_training">d - Hyper Training</string>
+    <string name="pallet_town">a - Pallet Town</string>
+    <string name="cinnabar_island">b - Cinnabar Island</string>
+    <string name="lavender_town">c - Lavender Town</string>
+    <string name="cerulean_city">d - Cerulean City</string>
+    <string name="fire_moves">a - Fire moves</string>
+    <string name="rock_moves">b - Rock moves</string>
+    <string name="water_moves">c - Water moves</string>
+    <string name="fairy_moves">d - Fairy moves</string>
+    <string name="water_pokemon">a - Water Pokémon</string>
+    <string name="beautiful_women">b - Beautiful women</string>
+    <string name="dragon_moves">c - Dragon moves</string>
+    <string name="flying_moves">d - Flying moves</string>
+
+    <string name="final_score">Final Score:</string>
+    <string name="correct_answers">Correct Answers:</string>
+    <string name="play_again_button">Play Again</string>
+
+    <string name="great_score">Great!</string>
+    <string name="not_bad">Not bad!</string>
+    <string name="really_bad">Bad, really bad!</string>
+    <string name="button_answer">Answer</string>
+    <string name="button_next">Next</string>
+
+    <string name="thats_correct">That\'s correct!</string>
+    <string name="thats_incorrect">That\'s incorrect!</string>
+    <string name="button_start">Start</string>
+    <string name="buttonPokemonAPI">Pokemon Register</string>
+
+</resources>

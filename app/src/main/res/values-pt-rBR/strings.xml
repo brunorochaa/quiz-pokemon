@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokemonQuiz</string>
+    <string name="pokemonQuiz">Bem-vindo ao Pokémon Quiz</string>
+    <string name="genre_question">Qual gênero apresentou Pokémon ao mundo?</string>
+    <string name="released_games">Quais foram os primeiros jogos Pokémon lançados?</string>
+    <string name="game_platform">Em qual plataforma os jogos Pokémon foram lançados em 1996?</string>
+    <string name="pikachu_evolution">Como o Pikachu evolui para Raichu no jogo?</string>
+    <string name="ash_home">Onde Ash Ketchum mora?</string>
+    <string name="charizard_weakness">Qual é a maior fraqueza do Charizard?</string>
+    <string name="ash_rival">Quem é o maior rival de Ash?</string>
+    <string name="broken_pokemon">Qual é o Pokémon mais poderoso da geração 1?</string>
+    <string name="god_pokemon">Qual Pokémon é considerado o Deus dos Pokémon?</string>
+    <string name="brock_weakness">Qual é a maior fraqueza do Brock?</string>
+
+    <string name="option_novel">d - Romance</string>
+    <string name="silver_gold">a - Prata e Ouro</string>
+    <string name="green_red">b - Verde e Vermelho</string>
+    <string name="sword_shield">c - Espada e Escudo</string>
+    <string name="black_white">d - Preto e Branco</string>
+    <string name="by_level">a - Por level</string>
+    <string name="raising_happiness">b - Elevando o nível de sua felicidade</string>
+    <string name="thunder_stone">c - Pedra Trovão</string>
+    <string name="hyper_training">d - Treino Avançado</string>
+    <string name="pallet_town">a - Cidade de Pallet</string>
+    <string name="cinnabar_island">b - Ilha de Cinnabar</string>
+    <string name="lavender_town">c - Cidade de Lavender</string>
+    <string name="cerulean_city">d - Cidade de Cerulean</string>
+    <string name="fire_moves">a - Ataques do tipo fogo</string>
+    <string name="rock_moves">b - Ataques do tipo pedra</string>
+    <string name="water_moves">c - Ataques do tipo aquático</string>
+    <string name="fairy_moves">d - Ataques do tipo fada</string>
+    <string name="water_pokemon">a - Pokémon do tipo aquático</string>
+    <string name="beautiful_women">b - Mulheres bonitas</string>
+    <string name="dragon_moves">c - Ataques do tipo dragão</string>
+    <string name="flying_moves">d - Ataques do tipo voador</string>
+
+    <string name="final_score">Pontuação Final:</string>
+    <string name="correct_answers">Respostas Corretas:</string>
+    <string name="play_again_button">Jogue de novo</string>
+
+    <string name="great_score">Ótimo!</string>
+    <string name="not_bad">Nada mal!</string>
+    <string name="really_bad">Ruim, muito ruim!</string>
+    <string name="button_answer">Responda</string>
+    <string name="button_next">Próxima</string>
+
+    <string name="thats_correct">Resposta correta!</string>
+    <string name="thats_incorrect">Resposta incorreta!</string>
+    <string name="button_start">Comece</string>
+    <string name="buttonPokemonAPI">Pokemon Register</string>
+
+</resources>
